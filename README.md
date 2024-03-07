@@ -1,5 +1,5 @@
 # CG-shading-cows
-Attempts of different methods of shading.
+Attempts of different methods of shading. This is a university project.
 
 1-normal color shading
 
